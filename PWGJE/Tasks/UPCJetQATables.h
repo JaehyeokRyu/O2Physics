@@ -12,7 +12,7 @@
 #ifndef PWGJE_TASKS_UPCJETQATABLES_H_
 #define PWGJE_TASKS_UPCJETQATABLES_H_
 
-#include "Framework/AnalysisDataModel.h"
+#include <Framework/AnalysisDataModel.h>
 
 namespace o2::aod
 {
